@@ -10,7 +10,8 @@ how to implement
 3. neuron is the storage node for some instructive, informative data;
 4. well defined micro instruction is instructive data
 5. well defined atomic data is informative data
-6. 
+6. atomic functions is the minimalist micro instruction
+7. 
 
 
 

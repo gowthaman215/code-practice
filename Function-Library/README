@@ -1,0 +1,53 @@
+/************************************************************************************************
+*																FUNCTION LIBRARIES
+*																==================
+************************************************************************************************/
+
+	This is Utility cum testing library so that to design, implement, and test specific unit (ie,. 
+	Functions) of a Product. file and directory structure of this library is simlary to that of 
+	Business application (ie., Softwer Product).
+
+
+	The Main Motivation of this project is to ease unit testing and organise all functions so that 
+	it can be easily accessible and resuable in other application also.
+
+
+
+Directory/File Structure of Function Library
+	=======================================
+
+
+
+																	----------------------
+																	|	FUNCTION LIBRARIES |
+																	----------------------
+																						|
+    ----------------------------------------|-------------------------------------------
+		|										|										|											|										 |
+-----------         -----------        -----------                |                    |
+| Source  |         | Include |        | Other   |              Makefile     executable/objectfiles
+-----------         -----------        -----------            
+    |                   |                   |
+.c/.cpp files     .h/.hpp files       .pc/.clp/.log
+
+
+
+
+
+How to create, remove, Modify or Test Fuctions
+=============================================
+
+
+Since it can be any of module based on c like functions or on c++ class methods, We must seperate it as
+different file so that to identify and analyse each easily as posible.
+
+Three key slogan to make and edit each modules and functions are as follows
+
+* Create new Module if Function does not have any relationship with Existing Module and add functionalities
+* Modify/Remove functions and its dependent areas call to the fuctions
+* Test functions independently with menu driven user interface.
+
+
+
+
+

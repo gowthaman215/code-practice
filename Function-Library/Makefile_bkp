@@ -1,0 +1,23 @@
+#=============================================================================================
+#
+#   This Makefile is specifically to make modules present in Function-Library directory
+#   and also under red-hat enterprise linux operating system.
+#
+#=============================================================================================
+
+
+COMPILATION=./bin/mainfile 
+all:$(COMPILATION)
+
+$(COMPILATION):$(OBJS)
+	/usr/bin/g++  $(CFLAGS) $(OBJS) -o ./bin/mainfile $(SRCS) $(LFLAGS) $(LIBS) -I./inc
+
+$(OBJS): $(SRCS) $(HDRS) 
+	$(CC) $(CDFLAGS) -c $(SRCS) $(HDRS) -o ./src
+
+OBJS = $(SRCS:.cpp=.o)
+CFLAGS = -Wall -g
+LFLAGS = -L/opt/product/oracle/10.2.0/db_1/lib 
+LIBS = -lpthread i
+HDRS = ./inc/CplusLibrary.h ./inc/DateTimeLibrary.h ./inc/NetworkingLib.h ./inc/OraDBLib.h ./inc/SqliteDBLib.h ./inc/StringLibrary.h
+SRCS = ./src/CplusFilesLib.cpp ./src/DateTimeLibrary.cpp ./src/DemoMain.cpp ./src/NetworkingLib.cpp ./src/OraDBLib.cpp ./src/SqliteDBLib.cpp ./src/StringLibrary.cpp

@@ -1,0 +1,16 @@
+Neuro programing initiative
+===========================
+
+
+how to implement
+==================
+
+1. based on neural networks neural programming has to be defined.
+2. define and redefine neural network based on observation
+3. neuron is the storage node for some instructive, informative data;
+4. well defined micro instruction is instructive data
+5. well defined atomic data is informative data
+6. 
+
+
+

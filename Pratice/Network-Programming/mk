@@ -1,0 +1,7 @@
+g++ stream-server.cpp -o stream-server
+g++ stream-client.cpp -o stream-client
+g++ select-server.cpp -o select-server
+g++ server.cpp -o server
+g++ client.cpp -o client
+g++ datagram-server.cpp -o datagram-server
+g++ datagram-client.cpp -o datagram-client

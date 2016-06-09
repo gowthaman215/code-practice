@@ -1,0 +1,15 @@
+It is better to reduce complexity of operator encodeing of c++ languge.
+
+It is quiet easy as desing c++ as java coding standard.
+
+say for example conventions header can be implemented in all applications with actually contain some macro
+which act upon converting between java like macro and C++ standard.
+
+Java is easy as english compared to c++, but c++ has performance oriented compared to Java.
+
+this convention may help little for those who are familiar with java also.
+
+
+
+some of the better convention we can say is,
+

@@ -13,3 +13,8 @@ this convention may help little for those who are familiar with java also.
 
 some of the better convention we can say is,
 
+#defines extends :
+#define implements :
+
+complete examples
+

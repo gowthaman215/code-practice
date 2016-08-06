@@ -11,7 +11,8 @@ how to implement
 4. well defined micro instruction is instructive data
 5. well defined atomic data is informative data
 6. atomic functions is the minimalist micro instruction
-7. 
-
+7. all neuron bears information signal, which mean information how to process information
+8. neurons are interconnected.
+9. 
 
 

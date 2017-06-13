@@ -1,0 +1,18 @@
+[DATE:13/06/2017]
+
+Message Queue Reference
+========================
+
+http://menehune.opt.wfu.edu/Kokua/More_SGI/007-2478-008/sgi_html/ch06.html
+
+https://www.softprayog.in/programming/interprocess-communication-using-system-v-message-queues-in-linux
+
+
+Kernel Code
+===========
+
+http://elixir.free-electrons.com/linux/latest/source/kernel
+
+
+
+

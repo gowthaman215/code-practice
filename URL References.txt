@@ -14,5 +14,11 @@ Kernel Code
 http://elixir.free-electrons.com/linux/latest/source/kernel
 
 
+Linux Programming Verygood manual
+=================================
+
+http://menehune.opt.wfu.edu/Kokua/More_SGI/007-2478-008/sgi_html/
+
+
 
 

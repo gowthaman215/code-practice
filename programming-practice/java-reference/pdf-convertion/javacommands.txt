@@ -1,0 +1,7 @@
+javac -cp src\com\fis\ src\sof\*.java -classpath lib\* -Xlint -d out
+jar cvfm sendMail.jar META-INF\MANIFEST.MF -C out\ .
+
+
+javac -cp src\PDFCreateExample.java -classpath lib\* -Xlint -d classes
+
+java -jar pdfbox-app-2.0.13.jar TextToPDF test.pdf C:\Gowtham\src\PDFCreateExample.java

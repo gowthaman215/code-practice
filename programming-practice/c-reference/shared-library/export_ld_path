@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/gowt/git/code-practice/programming-practice/c-reference/shared-library:$LD_LIBRARY_PATH

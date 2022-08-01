@@ -1,0 +1,10 @@
+g++ -o class-1 class-1.cpp
+g++ -o constructor-types constructor-types.cpp
+g++ -o member-definition member-definition.cpp
+g++ -I./ -o header-src-split header-src-split.cpp
+g++ -o this-pointer this-pointer.cpp
+g++ -o pointer-to-object pointer-to-object.cpp
+g++ -o no-default-constructor-error no-default-constructor-error.cpp
+g++ -o copy-constructor copy-constructor.cpp
+g++ -o object-assignment object-assignment.cpp
+g++ -o assign-op-overloading assign-op-overloading.cpp

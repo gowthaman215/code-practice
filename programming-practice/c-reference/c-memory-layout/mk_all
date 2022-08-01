@@ -1,0 +1,5 @@
+gcc simple-no-variables.c -o simple-no-variables
+gcc global-uninitialized.c -o global-uninitialized
+gcc static-uninitialized.c -o static-uninitialized
+gcc static-initialized.c -o static-initialized
+gcc global-static-initialized.c -o global-static-initialized

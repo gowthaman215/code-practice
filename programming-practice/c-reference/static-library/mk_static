@@ -1,0 +1,2 @@
+gcc -c static-lib.c -o static-lib.o
+ar rcs libstatic.a static-lib.o

@@ -1,0 +1,2 @@
+#c++ -I ~/boost_1_62_0 boost-demo.cpp
+g++ -I ~/boost_1_62_0 boost-demo.cpp

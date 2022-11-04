@@ -43,8 +43,8 @@ int main()
 	bptr->show(); // with base class pointer we can call member function even there is no object memory created.
 
 
-	base b;
-	b.show();
+	//base b;
+	//b.show();
 
 	//base *bp = new base;
 	//bp->show();

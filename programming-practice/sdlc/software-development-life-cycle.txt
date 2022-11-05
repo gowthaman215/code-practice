@@ -1,0 +1,47 @@
+What is SDLC?
+
+The software development life cycle is a process of planning, creating, testing, and deploying information systems across hardware and software.
+
+Defining SDLC
+1. Identify the Current Problems
+2. Planning
+3. Define Requirement
+4. Design and Prototyping
+	-UI
+	-Choosing Programming Language
+	-Security
+	-Communication
+	-Architechture
+	-Platform
+5. Software Development
+6. Testing
+	Testing is the process of running software and looking for flaws.
+	
+	Testing Methodologies:
+		1. Unit Testing : 
+		2. Integration Testing :
+		3. Regression Testing :
+		4. Smoke Testing :
+		5. Alpha Testing :
+		6. Beta Testing :
+		7. Performance Testing :
+		8. Object-oriented Testing:
+
+	
+7. Deployment
+8. Operations and Maintenance
+
+SDLC Methodologies
+1. Waterfall
+2. Agile
+3. Iterative
+4. DevOps
+5. Spiral
+6. V-Model
+7. Big-Bang
+
+Best Practices of Software Development
+1. Source code
+2. Continuous Integration
+3. SDLC Mangaement system
+
